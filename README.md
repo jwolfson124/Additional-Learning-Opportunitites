@@ -13,4 +13,4 @@ Stats to learn or remember:
 3. Correlation 1 vs -1
 4. R-Squared
 5. Mean Squared Error
-6. 
+6. Cross Value
