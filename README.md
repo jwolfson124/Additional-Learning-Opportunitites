@@ -5,6 +5,7 @@ Python Libraries To take classes on:
 3. matplotlib
 4. Seaborn
 5. scipy
+6. sklearn
 
 Stats to learn or remember:
 1. F-test Score
