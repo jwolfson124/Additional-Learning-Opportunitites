@@ -14,4 +14,5 @@ Stats to learn or remember:
 4. R-Squared
 5. Mean Squared Error
 6. Cross Value
-Underfitting vs Overfitting
+7. Underfitting vs Overfitting
+8. Ridge Regression
