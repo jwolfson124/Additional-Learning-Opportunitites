@@ -6,6 +6,7 @@ Python Libraries To take classes on:
 4. Seaborn
 5. scipy
 6. sklearn
+7. Folium
 
 Stats to learn or remember:
 1. F-test Score
