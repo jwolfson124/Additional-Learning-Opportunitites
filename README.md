@@ -7,6 +7,7 @@ Python Libraries To take classes on:
 5. scipy
 6. sklearn
 7. Folium
+8. Pycharm - by jet brains
 
 Stats to learn or remember:
 1. F-test Score
