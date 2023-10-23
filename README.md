@@ -19,3 +19,7 @@ Stats to learn or remember:
 6. Cross Value
 7. Underfitting vs Overfitting
 8. Ridge Regression
+9. Standard Scalar vs Normalization
+    - Standard Scalar alters the data so that the data has a more reaonsable distribution
+    - Normalization makes the values between 0-1
+10. 
