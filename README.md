@@ -8,6 +8,7 @@ Python Libraries To take classes on:
 6. sklearn
 7. Folium
 8. Pycharm - by jet brains
+9. Snap Machine Learning by IBM
 
 Stats to learn or remember:
 1. F-test Score
