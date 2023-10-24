@@ -22,4 +22,8 @@ Stats to learn or remember:
 9. Standard Scalar vs Normalization
     - Standard Scalar alters the data so that the data has a more reaonsable distribution
     - Normalization makes the values between 0-1
-10. 
+10. Support Vector Machine
+    - Helps find the best stratification and uses lines that may be curved or straight
+11. Rociever Operating Characteristics
+    - Evaluate performance of a binary classification model
+    - Closer to 1 the better
