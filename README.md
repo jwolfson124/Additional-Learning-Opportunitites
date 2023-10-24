@@ -32,3 +32,7 @@ Stats to learn or remember:
     -A value of 0 is perfect and a value of 1 means that the dataset is completley equal -> not what you want in a decision tree
 13. Regression Tree
     - A mix of a decision tree and regression analysis
+14. Logistic Regression
+    - Predict a binary or multiclass variable instead of something that is continuos
+    - Independent variables should be continous or if categorical should be transformed to numerical
+
