@@ -35,4 +35,4 @@ Stats to learn or remember:
 14. Logistic Regression
     - Predict a binary or multiclass variable instead of something that is continuos
     - Independent variables should be continous or if categorical should be transformed to numerical
-
+    - jaccard index measures how many items are shared between the different data sets and is used to compare different sets
