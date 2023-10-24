@@ -30,3 +30,5 @@ Stats to learn or remember:
 12. Entropy
     -Calculating the purity or impurtiy of a decision tree
     -A value of 0 is perfect and a value of 1 means that the dataset is completley equal -> not what you want in a decision tree
+13. Regression Tree
+    - A mix of a decision tree and regression analysis
