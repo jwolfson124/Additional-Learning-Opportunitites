@@ -24,6 +24,8 @@ Stats to learn or remember:
     - Normalization makes the values between 0-1
 10. Support Vector Machine
     - Helps find the best stratification and uses lines that may be curved or straight
+    - Supervised algorythm by finding a seperator
+    - Works by mapping data and finding something that splits the data
 11. Rociever Operating Characteristics
     - Evaluate performance of a binary classification model
     - Closer to 1 the better
