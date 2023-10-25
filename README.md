@@ -38,4 +38,7 @@ Stats to learn or remember:
     - jaccard index measures how many items are shared between the different data sets and is used to compare different sets
 16. Logarimethic Loss
     - Measures how accurate a model is
-    - Used only for binary case as of now a lower log loss is better.
+    - Used only for binary case as of now a lower log loss is better
+17. Transform standard scaler and fit
+    - this is useful for machine learning algorythms as this makes sure that the mean is 0 and the standard deviation is 1
+
