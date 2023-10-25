@@ -47,4 +47,9 @@ Stats to learn or remember:
     - uses probability of prediction for the scores
 17. Transform standard scaler and fit
     - this is useful for machine learning algorythms as this makes sure that the mean is 0 and the standard deviation is 1
+18. F1 Score
+    - Used to assess the accuracy of a binary classification model like logistic regression, support vector machines, or decision trees
+    - Great for imbalanced datasets
+    - Tracks Precision and Recall aka true positive vs false positive and true negative vs false negative
+    - Close to 1 indicates good performance vs Close to 0 indicates poor performance
 
