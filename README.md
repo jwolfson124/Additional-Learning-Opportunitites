@@ -39,6 +39,7 @@ Stats to learn or remember:
 16. Logarimethic Loss
     - Measures how accurate a model is
     - Used only for binary case as of now a lower log loss is better
+    - uses probability of prediction for the scores
 17. Transform standard scaler and fit
     - this is useful for machine learning algorythms as this makes sure that the mean is 0 and the standard deviation is 1
 
