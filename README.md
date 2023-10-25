@@ -26,6 +26,9 @@ Stats to learn or remember:
     - Helps find the best stratification and uses lines that may be curved or straight
     - Supervised algorythm by finding a seperator
     - Works by mapping data and finding something that splits the data
+    - Con: Prone to overiftting if and not great for estimation
+    - Pro: Memory efficient and accurate in high dimensional spaces
+    - Uses: Image recognition, text category assignments such as detecting spam, gene expression classification, regression, outlier detection, clustering
 11. Rociever Operating Characteristics
     - Evaluate performance of a binary classification model
     - Closer to 1 the better
