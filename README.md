@@ -30,9 +30,12 @@ Stats to learn or remember:
 12. Entropy
     -Calculating the purity or impurtiy of a decision tree
     -A value of 0 is perfect and a value of 1 means that the dataset is completley equal -> not what you want in a decision tree
-13. Regression Tree
+14. Regression Tree
     - A mix of a decision tree and regression analysis
-14. Logistic Regression
+15. Logistic Regression
     - Predict a binary or multiclass variable instead of something that is continuos
     - Independent variables should be continous or if categorical should be transformed to numerical
     - jaccard index measures how many items are shared between the different data sets and is used to compare different sets
+16. Logarimethic Loss
+    - Measures how accurate a model is
+    - Used only for binary case as of now a lower log loss is better.
