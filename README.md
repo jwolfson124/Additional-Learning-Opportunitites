@@ -53,6 +53,7 @@ Stats to learn or remember:
     - Tracks Precision and Recall aka true positive vs false positive and true negative vs false negative
     - Close to 1 indicates good performance vs Close to 0 indicates poor performance
 19. Clustering
-    - Partions data points into mutually exclusive clusters and groups
-    - 
+    - A group of objects that are similar to other objects in the cluster and dissimilar to data points in other clusters unsupervised
+    - Classification predict uses SVM, decision trees, or logistic regression for a new or known customer, each training data instance belongs to a class vs clustering is unsupervised and would use k-means for example to add them to a cluster based on similar attributes
+    - Simply put clustering algorithms dont predict categorical class lables
 
