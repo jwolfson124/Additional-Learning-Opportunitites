@@ -58,4 +58,14 @@ Stats to learn or remember:
     - Simply put clustering algorithms dont predict categorical class lables
     - Can be used for identifying buying patterns or reccomendation systems based on demographic information
     - Can be used for fraud detection in credit card usage
+20. Types of clusters
+    - **Patritioned-based clustering**
+    - relative efificent
+    - k-means, k-median, fuzz c-means
+    - **Hierarchical clustering**
+    - produces trees of clusters
+    - agllomerative, divisive
+    - **Density based clustering**
+    - produces arbitray shaped clusters
+    - DBSCAN
 
