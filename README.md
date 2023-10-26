@@ -56,4 +56,6 @@ Stats to learn or remember:
     - A group of objects that are similar to other objects in the cluster and dissimilar to data points in other clusters unsupervised
     - Classification predict uses SVM, decision trees, or logistic regression for a new or known customer, each training data instance belongs to a class vs clustering is unsupervised and would use k-means for example to add them to a cluster based on similar attributes
     - Simply put clustering algorithms dont predict categorical class lables
+    - Can be used for identifying buying patterns or reccomendation systems based on demographic information
+    - Can be used for fraud detection in credit card usage
 
