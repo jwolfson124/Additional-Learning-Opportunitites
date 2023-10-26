@@ -52,4 +52,7 @@ Stats to learn or remember:
     - Great for imbalanced datasets
     - Tracks Precision and Recall aka true positive vs false positive and true negative vs false negative
     - Close to 1 indicates good performance vs Close to 0 indicates poor performance
+19. Clustering
+    - Partions data points into mutually exclusive clusters and groups
+    - 
 
