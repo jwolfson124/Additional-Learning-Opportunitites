@@ -58,14 +58,12 @@ Stats to learn or remember:
     - Simply put clustering algorithms dont predict categorical class lables
     - Can be used for identifying buying patterns or reccomendation systems based on demographic information
     - Can be used for fraud detection in credit card usage
-20. Types of clusters
-    - **Patritioned-based clustering**
-    - relative efificent
-    - k-means, k-median, fuzz c-means
-    - **Hierarchical clustering**
-    - produces trees of clusters
-    - agllomerative, divisive
-    - **Density based clustering**
-    - produces arbitray shaped clusters
-    - DBSCAN
+20. K-means
+    - Partioning clustering
+    - divides data into non-overlappying subsets cluster or labels
+    - objects in the same clsuter are very similar and objects in other clusters are very different
+    - Goal is to have a low Sum of squares error -> how far the data points are from their clusters
+    - when the cluster centers move they move to the average of their data points and then this keeps happening until they do not move anymore
+    - after the alogrythm is run once it is common to run it mulitple times to make sure that the end point is the optimal point to be at not just a local outcome
+    - Calculate the accuracy using the external: compare the clusters with the actual truth if available, or internal: average distance between data points within a cluster and from the centroids themselves.
 
